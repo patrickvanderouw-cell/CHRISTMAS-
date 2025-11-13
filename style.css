@@ -4,8 +4,16 @@ h1{
 
 body{
 	background-color: #FF9797;
+	overflow: hidden;
 }
-
+.container{
+	width: 500px;
+	text-align: center;
+	overflow: hidden;
+}
+.slides{
+	
+}
 p{
 	color:#5f467h;
 }
@@ -27,9 +35,7 @@ td{
 	border-width: 2px;
 	border-color: #4f0323;
 }
-body{
-	background-size: 100%;
-}
+
 
 img{
 	border-radius: 25px;
