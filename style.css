@@ -12,10 +12,16 @@ body{
 	overflow: hidden;
 }
 .slides{
-	
+	display:flex ;
+	overflow-x:auto ;
+	scroll-behavior: smooth;
+}
+.slides img{
+	width: 400px;
+
 }
 p{
-	color:#5f467h;
+	color:#000000;
 }
 
 .blackParagraph{
